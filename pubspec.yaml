@@ -35,13 +35,14 @@ dependencies:
   # 폰트어썸
   font_awesome_flutter: ^8.8.1
   # svg
-  flutter_svg: ^0.17.4
+  flutter_svg: ^0.18.0
   # 애니메이션
   animations: ^1.1.0
   # back gesture
   cupertino_back_gesture: ^0.0.3
   # provider
   provider: ^3.0.0
+
 
 dev_dependencies:
   flutter_test:
@@ -89,3 +90,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  
